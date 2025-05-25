@@ -125,7 +125,9 @@ Calculate and display the predicted insurance premium.
 
 Display top influencing factors for the prediction.
 
+# Steamlit App Run :
 
+![image alt](https://github.com/sonalkothmire/Health-Insurance-premium-prediction/blob/main/app_run.pdf)
 
 
 
